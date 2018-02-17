@@ -1,0 +1,12 @@
+{
+    "name": "yaskXgateway",
+    "description": "Yaskawa Iot <> PLC Gateway",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
