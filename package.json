@@ -1,0 +1,12 @@
+{
+    "name": "nodered_am",
+    "description": "NodeRed for docker ",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "yaskXgateway.json",
+            "credentialsFile": "yaskXgateway_cred.json"
+        }
+    }
+}
