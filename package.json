@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "nodered_am",
     "description": "NodeRed for docker ",
+=======
+    "name": "yaskXgateway",
+    "description": "Yaskawa Iot <> PLC Gateway",
+>>>>>>> 9994df30902781b727102da701455175a1d4854b
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {

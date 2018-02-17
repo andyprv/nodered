@@ -1,7 +1,7 @@
-nodered_am
-==========
+yaskXgateway
+============
 
-NodeRed for docker 
+Yaskawa Iot <> PLC Gateway
 
 ### About
 
