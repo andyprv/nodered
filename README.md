@@ -1,4 +1,4 @@
-yaskXgateway
+yask**X**gateway
 ============
 
 Yaskawa Iot <> PLC Gateway
